@@ -1,4 +1,4 @@
 nginx_values:
-  name: TestConfigNow
+  name: TestConfigNowSuper
   serviceName: TestServiceName
   newVar: New
